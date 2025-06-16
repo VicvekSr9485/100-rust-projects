@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog.
+Rust programming is fun and challenging!
+This is a sample text file.
+Multiple     spaces    between     words.
+Line breaks
+
+should also
+be handled properly.
